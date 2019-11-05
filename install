@@ -1,0 +1,3 @@
+GOPATH=$HOME/gopath go get github.com/firstrow/tcp_server
+GOPATH=$HOME/gopath go get github.com/mmcloughlin/geohash
+GOPATH=$HOME/gopath go build src/server.go
